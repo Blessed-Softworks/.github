@@ -2,9 +2,7 @@
   <img src="../assets/logo@500x500.png" alt="Blessed Logo" width="200" height="200" />
   <br />
   <h1>Blessed Softworks</h1>
-  <p>
-    <b>Building the Next Generation of Automation Infrastructure</b>
-  </p>
+  <b>Building the Next Generation of Automation Infrastructure</b>
 </div>
 
 ---
@@ -31,7 +29,6 @@ Our flagship automation platform. It transitions Roblox account management from 
     - Intelligent Proxy Rotation.
     - Real-time Dashboard & Analytics.
 
-
 <br/>
 
 ---
@@ -39,6 +36,6 @@ Our flagship automation platform. It transitions Roblox account management from 
 <br/>
 
 <div align="center">
-  <img src="../.github/assets/encore.webp" alt="Encore Chibi" width="150" />
+  <img src="../assets/encore.webp" alt="Encore Chibi" width="150" />
   <p><i>Building the future of automation, one block at a time.</i></p>
 </div>
