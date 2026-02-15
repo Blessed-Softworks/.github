@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/logo@500x500.png" alt="Blessed Logo" width="200" height="200" />
+  <img src="../assets/logo-transparent.png" alt="Blessed Logo" width="200" height="200" />
   <br />
   <h1>Blessed Softworks</h1>
   <b>Building the Next Generation of Automation Infrastructure</b>
